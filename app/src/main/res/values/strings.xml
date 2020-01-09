@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Quizzle</string>
+    <string name="menu">MAIN MENU</string>
+    <string-array name="menuArray">
+        <item name="menu_item_play">Play Game</item>
+        <item name="menu_item_scores">View Scores</item>
+        <item name="menu_item_settings">Settings</item>
+        <item name="menu_item_help">Help</item>
+    </string-array>
 </resources>
